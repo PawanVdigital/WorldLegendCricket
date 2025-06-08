@@ -134,8 +134,7 @@ const IndiaChampions = ({
         player_jersey: "12",
         player_image:
           "/assets/images/players/india-champions/yuvraj-singh.webp",
-        player_about:
-          "A reliable all-rounder...",
+        player_about: "A reliable all-rounder...",
       },
       {
         player_name: "SIKHAR DHAWAN",
@@ -143,8 +142,7 @@ const IndiaChampions = ({
         player_jersey: "42",
         player_image:
           "/assets/images/players/india-champions/shikhar-dhawan.webp",
-        player_about:
-          "A dynamic opening batsman...",
+        player_about: "A dynamic opening batsman...",
       },
       {
         player_name: "HARBHAJAN SINGH",
@@ -152,8 +150,7 @@ const IndiaChampions = ({
         player_jersey: "3",
         player_image:
           "/assets/images/players/india-champions/harbhajan-singh.webp",
-        player_about:
-          "A skilled fast bowler...",
+        player_about: "A skilled fast bowler...",
       },
       {
         player_name: "SURESH RAINA",
@@ -161,8 +158,7 @@ const IndiaChampions = ({
         player_jersey: "48",
         player_image:
           "/assets/images/players/india-champions/suresh-raina.webp",
-        player_about:
-          "A reliable all-rounder...",
+        player_about: "A reliable all-rounder...",
       },
       {
         player_name: "IRFAN PATHAN",
@@ -170,8 +166,7 @@ const IndiaChampions = ({
         player_jersey: "56",
         player_image:
           "/assets/images/players/india-champions/irfan-pathan.webp",
-        player_about:
-          "A reliable all-rounder...",
+        player_about: "A reliable all-rounder...",
       },
       {
         player_name: "YUSUF PATHAN",
@@ -179,8 +174,7 @@ const IndiaChampions = ({
         player_jersey: "28",
         player_image:
           "/assets/images/players/india-champions/yusuf-pathan.webp",
-        player_about:
-          "A reliable all-rounder...",
+        player_about: "A reliable all-rounder...",
       },
       {
         player_name: "Robin Uthappa",
@@ -197,8 +191,7 @@ const IndiaChampions = ({
         player_jersey: "9",
         player_image:
           "/assets/images/players/india-champions/ambati-rayadu.webp",
-        player_about:
-          "A seasoned batsman...",
+        player_about: "A seasoned batsman...",
       },
       {
         player_name: "Piyush Chawla",
@@ -214,7 +207,7 @@ const IndiaChampions = ({
         player_type: "All Rounder",
         player_jersey: "84",
         player_image:
-          "/assets/images/players/india-champions/",
+          "/assets/images/players/india-champions/stuart-binny.webp",
         player_about:
           "A reliable all-rounder, Stuart Binny’s medium-pace bowling and ability to score crucial runs make him a key player in WCL. His ability to contribute in all departments adds balance to any team.",
       },
@@ -222,19 +215,15 @@ const IndiaChampions = ({
         player_name: "VARUN AARON",
         player_type: "Bowler",
         player_jersey: "77",
-        player_image:
-          "/assets/images/players/india-champions/",
-        player_about:
-          "A reliable Bowler...",
+        player_image: "/assets/images/players/india-champions/",
+        player_about: "A reliable Bowler...",
       },
       {
         player_name: "VINAY KUMAR",
         player_type: "Bowler",
         player_jersey: "23",
-        player_image:
-          "/assets/images/players/india-champions/stuart-binny.webp",
-        player_about:
-          "A reliable Bowler...",
+        player_image: "/assets/images/players/india-champions/",
+        player_about: "A reliable Bowler...",
       },
       {
         player_name: "Abhimanyu Mithun",
@@ -316,15 +305,15 @@ const IndiaChampions = ({
             </div>
             <div className="my-10">
               <CaptainCard
-                    name="Yuvraj Singh"
-                    type=""
-                    jersey=""
-                    about="Yuvraj Singh, a name synonymous with explosive batting and unwavering resilience, continues to captivate cricket enthusiasts worldwide.
+                name="Yuvraj Singh"
+                type=""
+                jersey=""
+                about="Yuvraj Singh, a name synonymous with explosive batting and unwavering resilience, continues to captivate cricket enthusiasts worldwide.
                     As the captain of the World Championship of Legends (WCL) Indian Champions Cricket Team, his leadership in this prestigious tournament underscores his enduring passion for the game and his commitment to excellence."
-                    metric1=""
-                    metric2=""
-                    image="/assets/images/players/india-champions/yuvraj-singh.webp"
-                  />
+                metric1=""
+                metric2=""
+                image="/assets/images/players/india-champions/yuvraj-singh.webp"
+              />
             </div>
             <div className="team-squad">
               <h2>India Champions Squad - Team Overview</h2>
