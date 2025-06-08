@@ -179,7 +179,7 @@ const Footer = ({ pagecontent }) => {
                 </li>
                 <li>
                   <Link href="/teams/pakistan-champions" legacyBehavior>
-                    <a>pakistan-champions</a>
+                    <a>Pakistan Champions</a>
                   </Link>
                 </li>
               </ul>
@@ -241,9 +241,9 @@ const Footer = ({ pagecontent }) => {
         </div>
         <div className="text-white p-5">
           <p className="text-xs md:text-sm text-center">
-              © Copyright {currentYear} WCL. All rights reserved. Unauthorized
-              use or reproduction of any content is prohibited.
-            </p>
+            © Copyright {currentYear} WCL. All rights reserved. Unauthorized use
+            or reproduction of any content is prohibited.
+          </p>
         </div>
       </footer>
 
